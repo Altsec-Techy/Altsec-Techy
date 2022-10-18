@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Altsec-Techy
-- Putting some spray and polish on other peoples code
+-
 
 
 <!---
